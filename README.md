@@ -9,4 +9,4 @@ Demo: https://ciemekk92.github.io/nexter/
 #### Technologies used:
 
 -   Sass
--   CSS GRID
+-   CSS Grid
